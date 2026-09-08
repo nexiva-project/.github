@@ -1,6 +1,10 @@
-# NEXIVA PROJECT
+<div align="center">
+  <img src="assets/img/nexiva.png" alt="nexiva" width="300" height="200">
+</div>
 
-The next generation of human connection.
-A new future for human connection.
+# NEXIVA PROJECT
+  
+- The next generation of human connection.
+- A new future for human connection.
 
 
