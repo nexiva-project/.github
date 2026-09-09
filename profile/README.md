@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="assets/img/nexiva.png" alt="nexiva" width="300" height="200">
 </div>
 
