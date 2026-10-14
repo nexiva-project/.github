@@ -14,17 +14,23 @@
 NEXIVA LABS
 │
 ├── kara-sygna-py
-│   └── AI Prototype / Python
+│   └── IA Prototype / Python
 │       └── Computer Vision
-│           └── Future Product: SYGNA AI
+│           └── Future Product: To Be Defined 
 │
 └── rt600-sygna
-    └── AI Prototype / Kotlin
+    └── IA Prototype / Kotlin
         └── Intelligent Assistant
-            └── Future Product: CHLOE AI
+            └── Future Product: CHLOE IA
 ```
 ---
 
 <p align="center">
   <sub>© 2026 Nexiva Labs. All rights reserved.</sub>
 </p>            
+
+
+
+Vamos criar um app android: 
+
+objetivo é quando usuario fazer sinal em LIBRAS e IA reconhecer uma frase
