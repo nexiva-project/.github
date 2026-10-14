@@ -28,9 +28,3 @@ NEXIVA LABS
 <p align="center">
   <sub>© 2026 Nexiva Labs. All rights reserved.</sub>
 </p>            
-
-
-
-Vamos criar um app android: 
-
-objetivo é quando usuario fazer sinal em LIBRAS e IA reconhecer uma frase
